@@ -1,0 +1,171 @@
+
+body {
+    font-family: 'Ubuntu';
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+}
+
+h3{
+    font-family:"Praise-Bold";
+}
+
+p {
+    color: #8f8f8f;
+}
+.rotate_image {
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            transform: rotate(20deg);
+        }
+
+.navbar-custom {
+    color: purple;
+
+    text-decoration: none;
+
+}
+.navbar{
+    background-color: #000033;
+
+    padding-bottom: 1.5rem;
+}
+#title {
+z-index: -1;
+position: relative;
+box-shadow: 5px 5px #b3b3ff;
+    background-color:  #e6e6ff;
+
+
+}
+#meet{
+    margin-left: px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+#meet-cursive{
+    margin-right: 25px;
+    font-family: 'Praise', cursive;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+.merm1{
+    padding: 3px;
+    box-shadow: 4x 10px #b3b3ff;
+}
+.merm2{
+    padding: 32px;
+    box-shadow: 1px .5x #b3b3ff;
+}
+
+.container-fluid{
+
+    padding: 3% 15%;
+}
+
+#brand{
+
+
+    font-family: 'Praise', cursive;
+    color: purple;
+    font-size: 2.3rem;
+}
+.nav-link{
+    font-family: 'Ubuntu';
+    font-size: 1.2rem;
+    margin-left: 25;
+}
+.nav-item{
+        margin-left: 25;
+
+}
+
+.download-button{
+    background-color: black;
+    box-shadow: 5px 5px #24478f;
+    MARGIN: 5% 0% 0% 5%;
+}
+
+.ending{
+        MARGIN: 5%;
+
+}
+#pricing{
+    padding:100px;
+    margin: 5%;
+
+}
+.column {
+  float: left;
+  width: 33.33%;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+#features{
+    background-color: white;
+    padding: 3% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 7%;
+}
+.icon{
+    color: #ef8172;
+    margin-bottom:1rem;
+}
+.icon:hover {
+    color:#ff4c68;
+}
+
+#testimonials {
+
+    padding: 7% 5%;
+    text-align: center;
+    background-color: #ef8172;
+    color: #fff;
+}
+
+.testimonial-image {
+    box-shadow: 5px 5px #b3b3ff;
+    border-radius: 100%;
+    margin: 10px;
+
+}
+
+#press {
+    padding-bottom: 3%;
+    text-align: center;
+    background-color: #ef8172;
+
+}
+.logo{
+    width: 12%;
+    margin: 20px 20px 50px;
+}
+.main-pic{
+
+    z-index: 1;
+    position: absolute;
+    box-shadow: 10px 5px #b3b3ff;
+    border-radius: 100%;
+    width: 20%;
+
+
+}
+.pricing-column {
+    padding: 3% 3%;
+}
+.card-header{
+    background-color: #00ace6;
+}
