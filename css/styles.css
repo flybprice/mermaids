@@ -169,7 +169,7 @@ box-shadow: 5px 5px #b3b3ff;
     background-color: #00ace6;
 }
 
-@media (max-width: 800px) {
+@media (min-width: 800px) {
     .main-pic{
         position: static;
         transform: rotate(0);
