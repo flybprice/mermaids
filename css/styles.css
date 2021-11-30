@@ -154,7 +154,7 @@ box-shadow: 5px 5px #b3b3ff;
 }
 .main-pic{
     z-index: 1;
-    position: relative;
+    position: absolute;
     box-shadow: 10px 5px #b3b3ff;
     border-radius: 100%;
     width: 10%;
