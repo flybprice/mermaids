@@ -153,12 +153,12 @@ box-shadow: 5px 5px #b3b3ff;
     margin: 20px 20px 50px;
 }
 .main-pic{
-    margin-left: 600px;
+    margin: 50px;
     z-index: 1;
     position: relative;
     box-shadow: 10px 5px #b3b3ff;
     border-radius: 100%;
-    width: 10%;
+    width: 50%;
 
 
 }
