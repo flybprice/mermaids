@@ -35,8 +35,7 @@ p {
     padding-bottom: 1.5rem;
 }
 #title {
-z-index: -1;
-position: relative;
+
 box-shadow: 5px 5px #b3b3ff;
     background-color:  #e6e6ff;
 
@@ -155,8 +154,8 @@ box-shadow: 5px 5px #b3b3ff;
 }
 .main-pic{
 
-    z-index: 1;
-    position: absolute;
+
+
     box-shadow: 10px 5px #b3b3ff;
     border-radius: 100%;
     width: 20%;
